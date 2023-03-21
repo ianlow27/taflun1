@@ -1,0 +1,14 @@
+{
+    "name": "ianlow28/taflun1",
+    "description": "Mae'r hwn dim ond ar gyfer arddangosiad.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Low",
+            "email": "ianlow28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
